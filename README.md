@@ -47,4 +47,4 @@ The dataset used to build the recommendation system for Travt consists of detail
     - `rating`: Rating given by the user
     - `review`: Review text provided by the user
 
-This comprehensive dataset enables the recommendation system to analyze and understand user preferences, behaviors, and contextual factors, facilitating the delivery of highly personalized and relevant suggestions. Our recommendation system drew inspiration from this dataset. For more details on the source reference, you can find the dataset [here]([#](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination?select=tourism_with_id.csv)).
+This comprehensive dataset enables the recommendation system to analyze and understand user preferences, behaviors, and contextual factors, facilitating the delivery of highly personalized and relevant suggestions. Our recommendation system drew inspiration from this dataset [here](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination?select=tourism_with_id.csv) and we opted to construct our own dataset due to the unavailability of a suitable dataset aligning with our project requirements.
