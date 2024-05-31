@@ -8,7 +8,7 @@ The recommendation system for Travt leverages advanced machine learning algorith
 ## Dataset
 The dataset used to build the recommendation system for Travt consists of detailed information on tourist attractions and culinary experiences in Indonesia, with a specific focus on the ex-Karesidenan Kedu area, including Magelang, Temanggung, Kebumen, Purworejo, and Wonosobo. The dataset includes the following components:
 
-1. **Location Data**: Contains detailed information about places, including:
+1. **Tourist and Resto Data**: Contains detailed information about places, including:
     - `place_id`: Unique identifier for the place
     - `name`: Name of the place
     - `site`: Website of the place
@@ -47,4 +47,4 @@ The dataset used to build the recommendation system for Travt consists of detail
     - `rating`: Rating given by the user
     - `review`: Review text provided by the user
 
-This comprehensive dataset enables the recommendation system to analyze and understand user preferences, behaviors, and contextual factors, facilitating the delivery of highly personalized and relevant suggestions.
+This comprehensive dataset enables the recommendation system to analyze and understand user preferences, behaviors, and contextual factors, facilitating the delivery of highly personalized and relevant suggestions. Our recommendation system drew inspiration from this dataset. For more details on the source reference, you can find the dataset [here]([#](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination?select=tourism_with_id.csv)).
