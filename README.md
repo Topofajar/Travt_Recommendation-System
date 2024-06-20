@@ -1,4 +1,9 @@
 # Machine Learning Path
+## Memmber
+1. Maylia Fatmawati – (ML) M303D4KX2749
+2. Putra Ramdhani – (ML) M229D4KY2627
+3. Topo Fajar Hermawan – (ML) M008D4KY2573
+
 ## Description
 Travt is a mobile-based application designed to offer personalized recommendations for nearby tourist attractions and culinary experiences. Our goal is to provide users with suggestions tailored to their location and preferences, thereby enhancing the visibility and accessibility of local businesses. In this application, we aim to highlight five cities in the ex-Karesidenan Kedu area: Magelang, Temanggung, Kebumen, Purworejo, and Wonosobo.
 
